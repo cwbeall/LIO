@@ -1,0 +1,23 @@
+Heuristic Database Structure Outline
+
+*1. Check Sensory Feeds 
+   A. Keep sensors on continuous loop, giving weight to highest value sensors, and spending sensory energy and attention based on 
+   Sensory information availability, system base state maintenance, growth potential, and ROI
+   B. IF base attention thresholds for a given sensor or ennergy type is passed, accept the sensory information, and continue logical
+   for further processing
+   C. Else, ignore
+
+*2. Sensory Information Categorization
+   A. Physical or Virtual?
+   B. Energy Type?
+   C. Energy Threat Threshold values for that type exceeded? 
+       If (Y), Move to Emergency Procedures for that Energy Type. 
+       Else, Continue
+   D.  general quantification for energy type state and related state structure and traits.
+
+*3. Set Base thresholds for all sensory inputs for attention spending. 
+   A. Set generally by Sensor Type
+   B. Set more specific thresholds for prioritized subtypes
+  
+*4. 
+  
